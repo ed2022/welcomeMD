@@ -1,0 +1,28 @@
+body{
+    background-color: black; 
+    font-family: 'Courier New', Courier, monospace; 
+    color: green;
+    padding: 50px;
+}
+
+.container{
+    display: block; 
+    font-size: 50px; 
+    width: 100%;
+    height: 100vh;
+}
+
+.message{
+    text-align: center;
+}
+
+h1 {
+    font-weight: 500px;
+    text-shadow: 5px 10px 150px rgb(211, 228, 18);
+    text-decoration: none;
+}
+
+.emoji-container{
+    text-align: center;
+    font-size: 250px;
+}
